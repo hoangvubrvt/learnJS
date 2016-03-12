@@ -1,0 +1,7 @@
+.sale-item:nth-child(odd) {
+    background-color:rgba(0, 114, 255, 0.38);
+    margin: 5px 0 5px 0;   
+}
+#sales {
+    border: solid 1px;
+}

@@ -1,0 +1,6 @@
+[{"name":"CHUALAR","time":1457770179754,"sales":6,"longitude":"-121.451600","latitude":"+36.583988"},
+ {"name":"SAN BERNARDINO","time":1457770186666,"sales":1,"longitude":"-116.479963","latitude":"+34.095956"},{"name":"SACRAMENTO","time":1457770190422,"sales":2,"longitude":"-121.444429","latitude":"+38.377411"},{"name":"SILVERADO","time":1457770196082,"sales":1,"longitude":"-117.727416","latitude":"+33.741994"},{"name":"KEELER","time":1457770198179,"sales":4,"longitude":"-117.874104","latitude":"+36.488612"},
+{"name":"SAN DIEGO","time":1457770201564,"sales":1,"longitude":"-116.846046","latitude":"+33.016928"},
+{"name":"RED BLUFF","time":1457770208246,"sales":5,"longitude":"-122.340888","latitude":"+40.142907"},
+{"name":"THOUSAND PALMS","time":1457770212804,"sales":1,"longitude":"-116.393413","latitude":"+33.843837"},{"name":"FRESNO","time":1457770218692,"sales":2,"longitude":"-119.639658","latitude":"+36.746375"},
+ {"name":"SANTA ANA","time":1457770221591,"sales":4,"longitude":"-117.845746","latitude":"+33.707568"}]
